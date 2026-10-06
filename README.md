@@ -46,6 +46,10 @@ La estructura del repositorio Trunk-Based se rediseña para reflejar físicament
 │   │   │   └── ISW_Consignas_Trabajos_Investigacion.pdf
 │   │   └── /Templates                  (De Cátedra - Plantillas estandarizadas para documentos)
 │   │       └── ISW_Template_<<Nombre>>.xlsx/docx
+│   │   ├── /Clases_Grabadas             (De Cátedra - Enlaces a grabaciones de clases de 4K1)
+│   │   │   └── ISW_Clases_Grabadas.md
+│   │   └── /Instructivos                (De Cátedra - Instructivos y materiales proporcionados por la cátedra)
+│   │       └── ISW_Instructivo_<<Nombre>>.pdf
 │   ├── /Material_Clase                 (De Clase - Dinámicas y notas espontáneas del aula)
 │   │   ├── ISW_Notas_<<DDMM>>.pdf       (De Clase - Apuntes y toma de notas tomadas durante la clase)
 │   │   └── ISW_Ejercicio<<NN>>_<<Tema>>.pdf (De Clase - Soluciones a TPs no evaluables y prácticas)
@@ -86,6 +90,23 @@ Para mantener la trazabilidad e integridad de los contenidos, cada archivo se id
 | **Resolución TPs Evaluables** | `ISW_Resolucion_TP<<NN>>_<<NombreTP>>.pdf` | `/Tronco_Activo/Produccion_Propia/Resoluciones_TPs/ISW_TP<<NN>>_<<NombreTP>>` | **De Producción Propia** | Resolución de Trabajos Prácticos Evaluables |
 | **Material Extra TPs Evaluables** | `ISW_MaterialExtra_TP<<NN>>_<<NombreTP>>.rar/zip` | `/Tronco_Activo/Produccion_Propia/Resoluciones_TPs/ISW_TP<<NN>>_<<NombreTP>>` | **De Producción Propia** | Material extra que fue utilizado durante la realización del trabajo práctico. |
 | **Trabajos de Investigación** | `ISW_Trabajos_Investigacion<<NN>>_<<Nombre>>.pdf` | `/Tronco_Activo/Produccion_Propia/Trabajos_Investigacion/` | **De Producción Propia** | Informes de investigación técnica elaborados por el equipo. |
+| **Índice de Clases Grabadas** | `ISW_Clases_Grabadas.md` | `/Tronco_Activo/Material_Catedra/Clases_Grabadas/` | **De Cátedra** | Registro de las clases grabadas correspondientes a 4K1, identificadas por tema y enlace de acceso. |
+| **Instructivos de Cátedra** | `ISW_Instructivo_<<Nombre>>.pdf` | `/Tronco_Activo/Material_Catedra/Instructivos/` | **De Cátedra** | Instructivos y materiales proporcionados por la cátedra para establecer pautas y orientar la realización y presentación de actividades académicas. |
+
+---
+### Glosario de Placeholders
+
+Los placeholders utilizados en las reglas de nombrado representan valores variables que deben ser reemplazados según el elemento de configuración correspondiente.
+
+| Placeholder | Descripción |
+|---|---|
+| `<<NN>>` | Número identificador correspondiente al elemento de configuración. |
+| `<<Nombre>>` | Nombre descriptivo que permite identificar el contenido del elemento. |
+| `<<Tema>>` | Tema principal asociado al material o contenido. |
+| `<<DDMM>>` | Fecha correspondiente al elemento, expresada mediante dos dígitos para el día y dos para el mes. |
+| `<<NombreTP>>` | Nombre identificador del Trabajo Práctico correspondiente. |
+| `<<HITO>>` | Nombre del hito asociado a la línea base. |
+| `<<X.Y>>` | Número de versión de la línea base, donde X representa la versión mayor e Y la versión menor. |
 
 ---
 
