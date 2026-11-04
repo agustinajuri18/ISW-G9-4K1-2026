@@ -11,7 +11,7 @@ Repositorio del **Grupo 9 (Curso 4K1 - Año 2026)** para la organización colabo
 * **Nombre:** Escudero Olivera, Matías Rubén - **Legajo:** 402434  - **Usuario:** escuderomann
 * **Nombre:** Fuertes Galera, Emiliano - **Legajo:** 402186 - **Usuario:** emolianito
 * **Nombre:** Galetto, Fiorella - **Legajo:** 400305 - **Usuario:** fiorellag26
-* **Nombre:** Gorosito, Tamara - **Legajo:** 90740 - **Usuario:** tamaraMG
+* **Nombre:** Gorosito, Tamara - **Legajo:** 90740 - **Usuario:** tamigorosito234-ai
 * **Nombre:** Guevara Lopez, Joaquin - **Legajo:** 300543 - **Usuario:** joaquinsinho
 * **Nombre:** Juri Romero, Agustina - **Legajo:** 95317 - **Usuario:** agustinajuri18
 * **Nombre:** Linaza, Camila - **Legajo:** 402370 - **Usuario:** camilinaza08
