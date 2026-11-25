@@ -36,7 +36,7 @@ La estructura del repositorio Trunk-Based se rediseña para reflejar físicament
 │   ├── /Material_Catedra               (De Cátedra - Insumos estáticos provistos por docentes)
 │   │   ├── ISW_Programa_Asignatura.pdf (De Cátedra - Programa oficial de la asignatura)
 │   │   ├── ISW_Cronograma_Oficial.xlsx (De Cátedra - Planificación de clases y fechas clave)
-│   │   ├── /Bibliografía               (De Cátedra - Libros y textos de lectura obligatoria)
+│   │   ├── /Bibliografia               (De Cátedra - Libros y textos de lectura obligatoria)
 │   │   │   └── ISW_Bibliografia_U<<NN>>_<<Nombre>>.pdf
 │   │   ├── /Presentaciones             (De Cátedra - Diapositivas teóricas de las clases)
 │   │   │   └── ISW_PPT_<<Tema>>.pdf
@@ -78,7 +78,7 @@ Para mantener la trazabilidad e integridad de los contenidos, cada archivo se id
 | **Matriz de Roles** | `ISW_Roles_Responsabilidades.pdf` | `/Planificacion/` | **De Producción Propia** | Asignación interna de roles SCM y responsabilidades. |
 | **Programa Oficial** | `ISW_Programa_Asignatura.pdf` | `/Tronco_Activo/Material_Catedra/` | **De Cátedra** | Documento oficial que define el alcance global de la asignatura. |
 | **Cronograma Oficial** | `ISW_Cronograma_Oficial.xlsx` | `/Tronco_Activo/Material_Catedra/` | **De Cátedra** | Planificación oficial de clases, temas y fechas límite. |
-| **Bibliografía** | `ISW_Bibliografia_U<<NN>>_<<Nombre>>.pdf` | `/Tronco_Activo/Material_Catedra/Bibliografía/` | **De Cátedra** | Material de lectura obligatoria provisto por la cátedra. |
+| **Bibliografía** | `ISW_Bibliografia_U<<NN>>_<<Nombre>>.pdf` | `/Tronco_Activo/Material_Catedra/Bibliografia/` | **De Cátedra** | Material de lectura obligatoria provisto por la cátedra. |
 | **Diapositivas** | `ISW_PPT_<<Tema>>.pdf` | `/Tronco_Activo/Material_Catedra/Presentaciones/` | **De Cátedra** | Presentaciones de clase oficiales de la cátedra. |
 | **Consignas TPs Evaluables** | `ISW_Consignas_TPs_Evaluables.pdf` | `/Tronco_Activo/Material_Catedra/Consignas/` | **De Cátedra** | Especificación de requerimientos para TPs evaluables. |
 | **Consignas TPs Resueltos** | `ISW_Consignas_TPs_Resueltos.pdf` | `/Tronco_Activo/Material_Catedra/Consignas/` | **De Cátedra** | Enunciados de ejercicios prácticos resueltos en clase. |
